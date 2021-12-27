@@ -1,7 +1,6 @@
 # Discord Server Cloner #
 - 💻 Developers: Dimis迪#1821
-
-- Rar Password: Dimis
+- 💰Source Code: https://sellix.io/product/61c9f4f5e431a
 Showcase Screenshots:
 
 ![Starter](https://cdn.discordapp.com/attachments/924702139765366834/925070019099000982/unknown.png)
