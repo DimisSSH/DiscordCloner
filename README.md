@@ -1,6 +1,5 @@
 # Discord Server Cloner #
-- 💻 Developers: Dimis迪#1821
-- 💰Source Code: https://sellix.io/product/61c9f4f5e431a
+- 💻 I didn't code the cloner, i just made it easy and fast to use!
 
 Showcase Screenshots:
 
